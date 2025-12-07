@@ -1,0 +1,21 @@
+Employee,Department,Role,Experience_Years,Base_Salary,Gender
+A001,Engineering,Software Engineer,2,62000,M
+A002,Engineering,Software Engineer,3,66000,F
+A003,Engineering,Senior Engineer,6,90000,M
+A004,Engineering,Senior Engineer,8,102000,F
+A005,Marketing,Marketing Analyst,2,52000,F
+A006,Marketing,Marketing Manager,7,78000,M
+A007,Marketing,Senior Manager,9,95000,F
+A008,Sales,Sales Executive,1,48000,M
+A009,Sales,Sales Executive,2,51000,F
+A010,Sales,Sales Manager,6,87000,M
+A011,Finance,Financial Analyst,3,60000,F
+A012,Finance,Senior Analyst,6,83000,M
+A013,Finance,Finance Manager,9,101000,F
+A014,HR,HR Executive,2,50000,F
+A015,HR,HR Manager,7,82000,M
+A016,Engineering,Software Engineer,1,58000,F
+A017,Marketing,Marketing Analyst,3,56000,M
+A018,Sales,Sales Manager,8,92000,F
+A019,Finance,Senior Analyst,7,87000,F
+A020,HR,HR Executive,1,47000,M
